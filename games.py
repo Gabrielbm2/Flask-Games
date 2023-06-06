@@ -53,6 +53,11 @@ def authenticate():
         return redirect('/login')
 
 
+@app.route('/logout')
+def logout():
+    session['Usuário logado'] = None
+    flash('Usuário deslogado')
+    return redirect('/')
 
 
 app.run(debug=True)
