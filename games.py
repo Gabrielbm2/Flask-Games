@@ -3,9 +3,9 @@ from flask import Flask, render_template, request, redirect, session, flash, url
 
 class Jogo:
     def __init__(self, nome, categoria, console):
-        self.nome=nome
-        self.categoria=categoria
-        self.console=console
+        self.nome = nome
+        self.categoria = categoria
+        self.console = console
 
 
 jogo1 = Jogo('League of Legends', 'Moba', 'PC')
