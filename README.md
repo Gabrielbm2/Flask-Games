@@ -54,4 +54,4 @@ O projeto pode ser implantado em qualquer servidor web compatível com Flask. Pa
 
 ## Considerações Finais
 
-Este projeto foi desenvolvido para demonstrar habilidades de programação em Flask. Dúvidas ou sugestões podem ser encaminhadas por email para [seu-email@example.com](gabribmeireles@hotmail.com).
+Este projeto foi desenvolvido para demonstrar habilidades de programação em Flask. Dúvidas ou sugestões podem ser encaminhadas por email para (gabribmeireles@hotmail.com).
